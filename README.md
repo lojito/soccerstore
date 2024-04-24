@@ -39,6 +39,30 @@ This is an ongoing project. Thanks!
 <br />
 <br />
 
+
+
+https://github.com/lojito/soccerstore/assets/46691447/7665fc4a-3c33-43bd-84db-3ff07afd8047
+
+
+
+https://github.com/lojito/soccerstore/assets/46691447/00d9c018-255d-44c9-9ea0-8e9a6f3b4ea8
+
+
+
+https://github.com/lojito/soccerstore/assets/46691447/c392965f-d7af-479e-a194-d83d9df82edb
+
+
+
+
+https://github.com/lojito/soccerstore/assets/46691447/e9ea46da-d3aa-41c1-8453-4fc5b109da88
+
+
+
+
+https://github.com/lojito/soccerstore/assets/46691447/b62eef00-2119-481b-a3f5-4a7b2ad80f5a
+
+
+
 ![](screenshots/npm-test-1.png)
 
 ![](screenshots/npm-test-2.png)
