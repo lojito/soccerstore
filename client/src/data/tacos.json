@@ -1,0 +1,72 @@
+[
+  {
+    "id": 101,
+    "category": "tacos",
+    "name": "Tacos Rojos",
+    "price": "10",
+    "image": "1"
+  },
+  {
+    "id": 102,
+    "category": "tacos",
+    "name": "Tacos Verdes",
+    "price": "17",
+    "image": "2"
+  },
+  {
+    "id": 103,
+    "category": "tacos",
+    "name": "Tacos Adidas",
+    "price": "20",
+    "image": "3"
+  },
+  {
+    "id": 104,
+    "category": "tacos",
+    "name": "Tacos Azules",
+    "price": "6",
+    "image": "4"
+  },
+  {
+    "id": 105,
+    "category": "tacos",
+    "name": "Tacos Amarillos",
+    "price": "12",
+    "image": "5"
+  },
+  {
+    "id": 106,
+    "category": "tacos",
+    "name": "Tacos Nike Verdes",
+    "price": "20",
+    "image": "6"
+  },
+  {
+    "id": 107,
+    "category": "tacos",
+    "name": "Tacos Nike Anaranjados",
+    "price": "18",
+    "image": "7"
+  },
+  {
+    "id": 108,
+    "category": "tacos",
+    "name": "Tacos Nike Blancos y Verdes",
+    "price": "4",
+    "image": "8"
+  },
+  {
+    "id": 109,
+    "category": "tacos",
+    "name": "Tacos Nike Grises",
+    "price": "11",
+    "image": "9"
+  },
+  {
+    "id": 110,
+    "category": "tacos",
+    "name": "Tacos Nikes Blancos y Negros",
+    "price": "9",
+    "image": "10"
+  }
+]

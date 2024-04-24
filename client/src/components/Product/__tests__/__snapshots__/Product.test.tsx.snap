@@ -1,0 +1,19 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ProductContent > should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-beySPh ODEZD"
+  >
+    <div>
+      images/balones/1.jpg
+    </div>
+    <div>
+      Balon Blanco y Negro
+    </div>
+    <div>
+      29.99 MXN
+    </div>
+  </div>
+</DocumentFragment>
+`;

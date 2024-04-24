@@ -1,0 +1,45 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`NavBar > should render correctly 1`] = `
+<DocumentFragment>
+  <header
+    class="sc-guDLey iuYCVI"
+  >
+    <input
+      id="text"
+      name="search"
+      placeholder="Buscar productos"
+      type="text"
+    />
+    <ul
+      class="sc-dmyCSP bsLMCO"
+    >
+      <li
+        class="sc-hLQSwg gdwXMY"
+      >
+        <a
+          class="sc-jTQCzO dkUpBw"
+          href="/login"
+        >
+          Iniciar sesión
+        </a>
+      </li>
+      <li
+        class="sc-hLQSwg gdwXMY"
+      >
+        <a
+          class="sc-jTQCzO dkUpBw"
+          href="/signup"
+        >
+          Regístrate
+        </a>
+      </li>
+    </ul>
+    <button
+      aria-label="todos"
+    >
+      Todos
+    </button>
+  </header>
+</DocumentFragment>
+`;

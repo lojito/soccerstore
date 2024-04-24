@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "category": "balones",
+    "name": "Balon Blanco y Negro",
+    "price": "29.99",
+    "image": "1"
+  },
+  {
+    "id": 2,
+    "category": "balones",
+    "name": "Balon Rojo",
+    "price": "30.99",
+    "image": "2"
+  },
+  {
+    "id": 3,
+    "category": "balones",
+    "name": "Balon Amarillo y Negro",
+    "price": "20.58",
+    "image": "3"
+  },
+  {
+    "id": 4,
+    "category": "balones",
+    "name": "Balon Negro",
+    "price": "51.59",
+    "image": "4"
+  },
+  {
+    "id": 5,
+    "category": "balones",
+    "name": "Balon Rojo y Azul",
+    "price": "81.99",
+    "image": "5"
+  },
+  {
+    "id": 6,
+    "category": "balones",
+    "name": "Balon Verde",
+    "price": "99.84",
+    "image": "6"
+  },
+  {
+    "id": 7,
+    "category": "balones",
+    "name": "Balon Blanco",
+    "price": "40.99",
+    "image": "7"
+  },
+  {
+    "id": 8,
+    "category": "balones",
+    "name": "Balon Amarillo",
+    "price": "26.83",
+    "image": "8"
+  },
+  {
+    "id": 9,
+    "category": "balones",
+    "name": "Balon Anaranjado",
+    "price": "30.50",
+    "image": "9"
+  },
+  {
+    "id": 10,
+    "category": "balones",
+    "name": "Balon Azul y Amarillo",
+    "price": "48.34",
+    "image": "10"
+  }
+]

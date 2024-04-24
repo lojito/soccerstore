@@ -1,0 +1,72 @@
+[
+  {
+    "id": 201,
+    "category": "espinilleras",
+    "name": "Espinilleras Negras",
+    "price": "12.17",
+    "image": "1"
+  },
+  {
+    "id": 202,
+    "category": "espinilleras",
+    "name": "Espinilleras Verdes",
+    "price": "32.99",
+    "image": "2"
+  },
+  {
+    "id": 203,
+    "category": "espinilleras",
+    "name": "Espinilleras Rojas",
+    "price": "28.75",
+    "image": "3"
+  },
+  {
+    "id": 204,
+    "category": "espinilleras",
+    "name": "Espinilleras Nike Blancas",
+    "price": "13.89",
+    "image": "4"
+  },
+  {
+    "id": 205,
+    "category": "espinilleras",
+    "name": "Espinilleras Adidas",
+    "price": "11.99",
+    "image": "5"
+  },
+  {
+    "id": 206,
+    "category": "espinilleras",
+    "name": "Espinilleras Azules y Negras",
+    "price": "20.00",
+    "image": "6"
+  },
+  {
+    "id": 207,
+    "category": "espinilleras",
+    "name": "Espinilleras Azules y Rosadas",
+    "price": "17.62",
+    "image": "7"
+  },
+  {
+    "id": 208,
+    "category": "espinilleras",
+    "name": "Espinilleras Nike Negras y Verdes",
+    "price": "21.98",
+    "image": "8"
+  },
+  {
+    "id": 209,
+    "category": "espinilleras",
+    "name": "Espinilleras Verdes y Negras",
+    "price": "18.00",
+    "image": "9"
+  },
+  {
+    "id": 210,
+    "category": "espinilleras",
+    "name": "Espinilleras Azules y Blancas",
+    "price": "20.32",
+    "image": "10"
+  }
+]

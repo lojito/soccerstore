@@ -1,0 +1,20 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Search > should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-beySPh iYHQvb"
+  >
+    <i
+      class="fa fa-search"
+    />
+    <input
+      id="text"
+      name="search"
+      placeholder="Buscar productos"
+      type="text"
+      value=""
+    />
+  </div>
+</DocumentFragment>
+`;

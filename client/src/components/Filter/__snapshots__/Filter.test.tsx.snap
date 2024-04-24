@@ -1,0 +1,70 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Logo > should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-beySPh cMiZIK"
+  >
+    <button
+      class="sc-guDLey jbovde"
+      type="button"
+    >
+      Balones
+    </button>
+    <button
+      class="sc-guDLey jbovde"
+      type="button"
+    >
+      Tacos
+    </button>
+    <button
+      class="sc-guDLey jbovde"
+      type="button"
+    >
+      Shorts
+    </button>
+    <button
+      class="sc-guDLey jbovde"
+      type="button"
+    >
+      Camisetas
+    </button>
+    <button
+      class="sc-guDLey jbovde"
+      type="button"
+    >
+      Espinilleras
+    </button>
+    <button
+      class="sc-guDLey jbovde"
+      type="button"
+    >
+      Guantes
+    </button>
+    <button
+      class="sc-guDLey jbovde"
+      type="button"
+    >
+      Medias
+    </button>
+    <button
+      class="sc-guDLey jbovde"
+      type="button"
+    >
+      Chaquetas
+    </button>
+    <button
+      class="sc-guDLey gqjkqk selected"
+      type="button"
+    >
+      Todos
+    </button>
+    <button
+      class="sc-guDLey jbovde"
+      type="button"
+    >
+      Favorites
+    </button>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 601,
+    "category": "shorts",
+    "name": "Short Nike Azul",
+    "price": "46.44",
+    "image": "1"
+  },
+  {
+    "id": 602,
+    "category": "shorts",
+    "name": "Short MLS Rojo",
+    "price": "26.30",
+    "image": "2"
+  },
+  {
+    "id": 603,
+    "category": "shorts",
+    "name": "Short Nike Negro",
+    "price": "81.08",
+    "image": "3"
+  },
+  {
+    "id": 604,
+    "category": "shorts",
+    "name": "Short Nike Rojo",
+    "price": "38.72",
+    "image": "4"
+  },
+  {
+    "id": 605,
+    "category": "shorts",
+    "name": "Short Adidas Blanco",
+    "price": "47.06",
+    "image": "5"
+  },
+  {
+    "id": 606,
+    "category": "shorts",
+    "name": "Short Nike Verde",
+    "price": "25.00",
+    "image": "6"
+  },
+  {
+    "id": 607,
+    "category": "shorts",
+    "name": "Short Nike Amarillo",
+    "price": "23.47",
+    "image": "7"
+  },
+  {
+    "id": 608,
+    "category": "shorts",
+    "name": "Short Adidas Verde y Blanco",
+    "price": "20.44",
+    "image": "8"
+  },
+  {
+    "id": 609,
+    "category": "shorts",
+    "name": "Short Adidas Azul con Franjas Rojas",
+    "price": "11",
+    "image": "9"
+  },
+  {
+    "id": 610,
+    "category": "shorts",
+    "name": "Short Chelsea F.C.",
+    "price": "23.97",
+    "image": "10"
+  }
+]

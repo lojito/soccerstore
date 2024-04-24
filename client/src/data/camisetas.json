@@ -1,0 +1,72 @@
+[
+  {
+    "id": 401,
+    "category": "camisetas",
+    "name": "Camiseta Fly Emirates Verde",
+    "price": "104.99",
+    "image": "1"
+  },
+  {
+    "id": 402,
+    "category": "camisetas",
+    "name": "Camiseta Roja con Franjas Amarillas",
+    "price": "207.99",
+    "image": "2"
+  },
+  {
+    "id": 403,
+    "category": "camisetas",
+    "name": "Camiseta Inter Miami",
+    "price": "124.99",
+    "image": "3"
+  },
+  {
+    "id": 404,
+    "category": "camisetas",
+    "name": "Camiseta Benzema",
+    "price": "39.99",
+    "image": "4"
+  },
+  {
+    "id": 405,
+    "category": "camisetas",
+    "name": "Camiseta Coutinho Negra",
+    "price": "54.99",
+    "image": "5"
+  },
+  {
+    "id": 406,
+    "category": "camisetas",
+    "name": "Camiseta Cristiano Ronaldo Roja",
+    "price": "17.37",
+    "image": "6"
+  },
+  {
+    "id": 407,
+    "category": "camisetas",
+    "name": "Camiseta AC Milan",
+    "price": "40",
+    "image": "7"
+  },
+  {
+    "id": 408,
+    "category": "camisetas",
+    "name": "Camiseta Brazil",
+    "price": "35.85",
+    "image": "8"
+  },
+  {
+    "id": 409,
+    "category": "camisetas",
+    "name": "Camiseta Barcelona F.C.",
+    "price": "35.17",
+    "image": "9"
+  },
+  {
+    "id": 410,
+    "category": "camisetas",
+    "name": "Camiseta Real Madrid",
+    "price": "87.93",
+    "image": "10"
+  }
+]

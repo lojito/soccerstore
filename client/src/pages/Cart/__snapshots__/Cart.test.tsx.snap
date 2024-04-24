@@ -1,0 +1,23 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Cart > should display products in the cart 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-hLQSwg egqrsP"
+  />
+</DocumentFragment>
+`;
+
+exports[`Cart > should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-hLQSwg egqrsP"
+  >
+    <div
+      class="sc-jTQCzO eAFyMX"
+    >
+      El carrito esta vacío. Continua tu compra de productos relacionados con el fútbol, el deporte más popular del mundo.
+    </div>
+  </div>
+</DocumentFragment>
+`;

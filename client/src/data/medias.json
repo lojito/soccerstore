@@ -1,0 +1,72 @@
+[
+  {
+    "id": 501,
+    "category": "medias",
+    "name": "Medias Rojas",
+    "price": "19.50",
+    "image": "1"
+  },
+  {
+    "id": 502,
+    "category": "medias",
+    "name": "Medias Alemanas",
+    "price": "31.56",
+    "image": "2"
+  },
+  {
+    "id": 503,
+    "category": "medias",
+    "name": "Medias Azules",
+    "price": "26.01",
+    "image": "3"
+  },
+  {
+    "id": 504,
+    "category": "medias",
+    "name": "Medias Verdes",
+    "price": "26.99",
+    "image": "4"
+  },
+  {
+    "id": 505,
+    "category": "medias",
+    "name": "Medias Adidas Rojas",
+    "price": "16.00",
+    "image": "5"
+  },
+  {
+    "id": 506,
+    "category": "medias",
+    "name": "Medias Adidas Blancas",
+    "price": "15.99",
+    "image": "6"
+  },
+  {
+    "id": 507,
+    "category": "medias",
+    "name": "Medias Nike Negras",
+    "price": "22.00",
+    "image": "7"
+  },
+  {
+    "id": 508,
+    "category": "medias",
+    "name": "Medias Nike Blancas",
+    "price": "18.00",
+    "image": "8"
+  },
+  {
+    "id": 509,
+    "category": "medias",
+    "name": "Medias Adidas Negras",
+    "price": "13.10",
+    "image": "9"
+  },
+  {
+    "id": 510,
+    "category": "medias",
+    "name": "Medias Amarillas",
+    "price": "13.60",
+    "image": "10"
+  }
+]

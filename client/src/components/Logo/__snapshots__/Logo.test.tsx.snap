@@ -1,0 +1,14 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Logo > should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-beySPh epnVfq"
+  >
+    <img
+      alt="logo"
+      src="images/logo.jpg"
+    />
+  </div>
+</DocumentFragment>
+`;

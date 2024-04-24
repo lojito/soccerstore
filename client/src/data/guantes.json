@@ -1,0 +1,72 @@
+[
+  {
+    "id": 301,
+    "category": "guantes",
+    "name": "Guantes Anaranjados",
+    "price": "13.39",
+    "image": "1"
+  },
+  {
+    "id": 302,
+    "category": "guantes",
+    "name": "Guantes Negros y Blancos",
+    "price": "83.99",
+    "image": "2"
+  },
+  {
+    "id": 303,
+    "category": "guantes",
+    "name": "Guantes Negros y Amarillos",
+    "price": "84.67",
+    "image": "3"
+  },
+  {
+    "id": 304,
+    "category": "guantes",
+    "name": "Guantes Blancos y Rojos",
+    "price": "39.99",
+    "image": "4"
+  },
+  {
+    "id": 305,
+    "category": "guantes",
+    "name": "Guantes Amarillos y Negros",
+    "price": "19.98",
+    "image": "5"
+  },
+  {
+    "id": 306,
+    "category": "guantes",
+    "name": "Guantes Rojos",
+    "price": "79.99",
+    "image": "6"
+  },
+  {
+    "id": 307,
+    "category": "guantes",
+    "name": "Guantes Verdes",
+    "price": "12.00",
+    "image": "7"
+  },
+  {
+    "id": 308,
+    "category": "guantes",
+    "name": "Guantes Verdes y Blancos",
+    "price": "34.84",
+    "image": "8"
+  },
+  {
+    "id": 309,
+    "category": "guantes",
+    "name": "Guantes Negros",
+    "price": "36.98",
+    "image": "9"
+  },
+  {
+    "id": 310,
+    "category": "guantes",
+    "name": "Guantes Blancos y Verdes",
+    "price": "9",
+    "image": "10"
+  }
+]

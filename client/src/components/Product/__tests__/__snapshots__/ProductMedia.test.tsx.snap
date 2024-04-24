@@ -1,0 +1,13 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ProductMedia > should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-beySPh imCCJQ"
+  >
+    <img
+      src="images/balones/1.jpg"
+    />
+  </div>
+</DocumentFragment>
+`;

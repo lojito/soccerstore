@@ -1,0 +1,72 @@
+[
+  {
+    "id": 701,
+    "category": "chaquetas",
+    "name": "Chaqueta Spain",
+    "price": "50.00",
+    "image": "1"
+  },
+  {
+    "id": 702,
+    "category": "chaquetas",
+    "name": "Chaqueta Brazil",
+    "price": "54.99",
+    "image": "2"
+  },
+  {
+    "id": 703,
+    "category": "chaquetas",
+    "name": "Chaqueta USA",
+    "price": "39.95",
+    "image": "3"
+  },
+  {
+    "id": 704,
+    "category": "chaquetas",
+    "name": "Chaqueta Arsenal F.C.",
+    "price": "120.00",
+    "image": "4"
+  },
+  {
+    "id": 705,
+    "category": "chaquetas",
+    "name": "Chaqueta Sweden",
+    "price": "12",
+    "image": "5"
+  },
+  {
+    "id": 706,
+    "category": "chaquetas",
+    "name": "Chaqueta France",
+    "price": "84.00",
+    "image": "6"
+  },
+  {
+    "id": 707,
+    "category": "chaquetas",
+    "name": "Chaqueta Nike Manchester City",
+    "price": "32.41",
+    "image": "7"
+  },
+  {
+    "id": 708,
+    "category": "chaquetas",
+    "name": "Chaqueta Netherlands",
+    "price": "49.99",
+    "image": "8"
+  },
+  {
+    "id": 709,
+    "category": "chaquetas",
+    "name": "Chaqueta Russia",
+    "price": "30.60",
+    "image": "9"
+  },
+  {
+    "id": 710,
+    "category": "chaquetas",
+    "name": "Chaqueta England",
+    "price": "39.99",
+    "image": "10"
+  }
+]
